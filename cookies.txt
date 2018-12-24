@@ -1,0 +1,15 @@
+# HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
+# This file can be used by wget, curl, aria2c and other standard compliant tools.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://www.microsoft.com/en-us/download/confirmation.aspx?id=54765"
+#   2) curl --cookie cookies.txt "https://www.microsoft.com/en-us/download/confirmation.aspx?id=54765"
+#   3) aria2c --load-cookies cookies.txt "https://www.microsoft.com/en-us/download/confirmation.aspx?id=54765"
+#
+.microsoft.com	TRUE	/	FALSE	1577008437	MC1	GUID=4392b663663c4a9eb8db91ebe6fd4f68&amp;HASH=4392&amp;LV=201812&amp;V=4&amp;LU=1545472428798
+www.microsoft.com	FALSE	/	FALSE	1577008428	MSFPC	GUID=4392b663663c4a9eb8db91ebe6fd4f68&amp;HASH=4392&amp;LV=201812&amp;V=4&amp;LU=1545472428798
+.microsoft.com	TRUE	/	FALSE	1545650859	ak_bmsc	75F125660C0312078AE6F742326C8FC317201D0E8E6B000087A6205C4D6CF71B~plr16wl+J1rnrRqyV1/ZkXEYLNxdGHZsdmlrbGPiew2SSeTLJL0n5d6w/ZoH3yyesdDePdmkC1STUU+4z6nRRT6KvAH1S+69biz4WUBMo19uA/tbBY7YmB/DFUuUEo6BlnL25vW4fA8n1WZgOI1uTy4VK2vupHEhIDNGRDxCxMYQXvHICeTl+oBExZgnGjy/wRrCmG0FZBdD7l/lPhyEivnzLeJAA49Wwmnqq5CKHdYDctUBu3N1ITkvzWQSIdeSjFPzUF1BJXVbgB39A5UVmSEw==
+.microsoft.com	TRUE	/	FALSE	1545645461	MS0	27285b408cd04e5bafc5022614a5ce6b
+www.microsoft.com	FALSE	/	TRUE	1545644564	OpenIdConnect.nonce.La9qpQB0GoeDTmsxvuWYlx%2Bh4n0ha54C8oz4vEQck%2FA%3D	QXJhZGhDd2lWWld2Z1ltb2F4dXVaaEZrRDhONHB6TF9aZHdkLW5MRXM4S3JOMjdDbFVqbWdkV21HSjBjbjhmYndqaUJRU2dmemlRSlVXWXRBT05yN1hzbWplQWNLYkZXZmN0cjZkNWVaejNjWmE4T05yU0lwVjZwM3FhOGVhbnN0NVhkVkVlRWpVd0lfLUJlemNoZEYtbHdKTXNKbzZZX1JTYXlOMzNlUngxWWJkM0o5MS1wRk81SXZGQUJWODRsQnR2bXZFV0V3amtDeWJvT3daZDJDOEJ3R0k0
+.microsoft.com	TRUE	/	FALSE	1545650872	bm_sv	2A8E7365E476A56301E7A2C118F7BBC4~V+DD3zdpMemepFVVA5jIw9GBNIoif399o9tUn4wY4i0jA3hnlpzitUfRvLlLY7GJCDCPxZfOSWQb+YBeBIXuBnULjE9mF+h2kXrBpTBSAoqCl8rPw3uIqQSdmt7E6EcduLfcfuRDXgo7OU5x8lff4MUrkkcyxBwjybC6K4HZgJA=
+www.microsoft.com	FALSE	/	TRUE	1545644576	OpenIdConnect.nonce.YDvcKAq3npv%2BEjq9%2Bh79HVZ8Ha9iVSceLlWRzzeZnes%3D	TXh5MmdkSU1TMm5sczZaNkphZHFhcFdNNTEwbDhfaTZvZGdSb19NV21tbzB0WUgtcmxhWm9WVkVJaHFzSy1NS21sV3J1NS01WkRBeVRQTUlfcV93RmhNTGluX191Y3lTTjM5MDBUM2hyeDBJWl84LXJTVjVoOEsydGhHcVByeUlxazdRRGJsdXAyOVpvRlRVb2Zock0wZTI3TjBqZzFLallTa0ZNNFBHVDdxUndXMGRGMy12SWJLMlhTeEhNSFIweHVpX1FsRURPQXk5YUM4WlN4cnhJR0NmUmJN
+.microsoft.com	TRUE	/	FALSE	1545730077	MS-CV	oFigM7ms40iu4rlX.9
